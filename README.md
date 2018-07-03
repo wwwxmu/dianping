@@ -1,6 +1,6 @@
 # dianping_reviews_spider
 
-> `clone from [fuerlai](https://github.com/fuerlai)`
+`clone from [fuerlai](https://github.com/fuerlai)`
 
 获取大众点评网的用户评论内容
 =========================
